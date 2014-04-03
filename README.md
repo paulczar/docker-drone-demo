@@ -2,6 +2,8 @@ docker-demo-chef Cookbook
 =========================
 TODO: Enter the cookbook description here.
 
+[![Build Status](https://drone.paulcz.net/github.com/paulczar/docker-drone-demo/status.svg?branch=master)](https://drone.paulcz.net/github.com/paulczar/docker-drone-demo)
+
 e.g.
 This cookbook makes your favorite breakfast sandwich.
 
